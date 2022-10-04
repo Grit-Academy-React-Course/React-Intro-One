@@ -1,0 +1,5 @@
+/* 
+We import all our .css files in this root file so that we don't have to import them seperately.
+Css file import is done with the help of @import keyword
+*/
+@import './App.css';
